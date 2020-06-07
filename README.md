@@ -1,4 +1,5 @@
 # NLWEcologic
+Project built during the first Next Level Week
 
 # How to run
 In all folders, install the dependencies with 'npm install'
